@@ -20,7 +20,6 @@ def inserir_elementos():
                 C += 1
             else:
                 print("Valor já existe. Tente outro valor.")
-    
     return A
 
 A = inserir_elementos()
